@@ -7,4 +7,4 @@ Always creating, always learning.
 
 ## 📫 Contact
 - ✉️ Email: mohaelhallal@gmail.com  
-- 💬 Discord: drax.devx
+- 💬 Discord: iamdrax.me
