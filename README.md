@@ -1,10 +1,8 @@
-# Hey, I'm Drax ⚡
+# Drax ⚡
 
-Self-taught developer building for fun.  
-Always creating, always learning.
+> Building ideas into real projects.
+> Learning by doing, improving every day.
 
----
-
-## 📫 Contact
-- ✉️ Email: mohaelhallal@gmail.com  
-- 💬 Discord: iamdrax.me
+## Reach me
+Email → mohaelhallal@gmail.com
+Discord → iamdrax.me
